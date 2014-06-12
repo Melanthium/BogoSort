@@ -1,4 +1,0 @@
-BogoSort
-========
-
-BogoSort (№11)
